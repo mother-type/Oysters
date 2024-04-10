@@ -1,0 +1,32 @@
+---
+unified-font-repository-version: "0.3"
+unified-font-repository-url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface-family:
+  name: Oysters
+  desccription: A decorative typeface inspired by oysters
+  tags:
+  - sans-serif
+  - pixel
+  - monospace
+  - incomplete
+  - decorative
+  repository-url: https://github.com/mother-type/Oyster
+  project-url: https://mother-type.de/oysters
+  tools:
+  - Inkscape
+  - Fontforge
+  similar-fonts:
+  - Helvetica
+  - Neue Haas Grotesk
+  designer: 
+  - name: printer_scanner
+  - url: https://printerscanner.net
+  writing-systems: 
+  - Latin
+  published: 
+  - 2023
+  license: 
+  - SIL Open Font License, Version 1.1
+  sample-text:
+  - en_us: The quick brown fox jumps over the lazy dog
+...
